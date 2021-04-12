@@ -10,7 +10,10 @@ namespace GitGyakorlat4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GitGyakorlat 4");
+            for (int i = 0; i < 4; i++)
+            {
+                Console.WriteLine("GitGyakorlat 4"); 
+            }
 
         }
     }
