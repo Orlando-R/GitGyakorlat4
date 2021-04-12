@@ -15,6 +15,8 @@ namespace GitGyakorlat4
                 Console.WriteLine("GitGyakorlat 4"); 
             }
 
+            Console.WriteLine("Befejezve");
+
         }
     }
 }
