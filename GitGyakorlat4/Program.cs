@@ -12,10 +12,16 @@ namespace GitGyakorlat4
         {
             for (int i = 0; i < 4; i++)
             {
-                Console.WriteLine("GitGyakorlat 4"); 
+                Console.WriteLine("GitGyakorlat 4");
+
+                for (int z = 0; z < 5; z++)
+                {
+                    Console.WriteLine("Vagy mégsem");
+                }
             }
 
             Console.WriteLine("Befejezve");
+            Console.ReadLine();
 
         }
     }
