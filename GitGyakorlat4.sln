@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGyakorlat4", "GitGyakorlat4\GitGyakorlat4.csproj", "{FE84DB59-44A6-4A64-9733-686737DB3B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE84DB59-44A6-4A64-9733-686737DB3B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE84DB59-44A6-4A64-9733-686737DB3B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE84DB59-44A6-4A64-9733-686737DB3B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE84DB59-44A6-4A64-9733-686737DB3B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F884BD44-160E-4798-BF2E-E894D322FDB5}
+	EndGlobalSection
+EndGlobal
